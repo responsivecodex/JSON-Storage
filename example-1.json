@@ -1,0 +1,191 @@
+{
+   "contratacion":{
+      "estatus":"OK"
+   },
+   "siniestros":{
+      "coincidencias":[
+         {
+            "alerta":{
+               "ramoRegla":90,
+               "procesoRegla":"Emisión",
+               "idLayoutDetonanteRegla":"sss_auto_emision",
+               "entidadInformacionRegla":"Vehículo",
+               "claveRegla":"15SITINT",
+               "nombreRegla":"Emisión vs CE",
+               "descripcionRegla":"Modificación de reglas internas - Autos - Emisión",
+               "objetivoRegla":"Modificación de reglas internas - Autos - Emisión",
+               "nivelDeRiesgoRegla":"Bajo",
+               "nivelDeAplicacionRegla":"Múltiples LN y mi compañía",
+               "tipologiaFraude":null,
+               "tipoDeRegla":"Interna",
+               "nombreAsociadaHit":"EMPRESA01",
+               "fechaHit":"2021-11-10",
+               "fechaCoincidencia":"2021-11-10",
+               "estatusAlerta":"Activo",
+               "peso":1,
+               "emision":{
+                  "poliza":{
+                     "numPoliza":"POLAUTOEX005",
+                     "inciso":"ASAUTE005",
+                     "tipoDeSeguro":null,
+                     "estatus":null,
+                     "fechaDeEstatus":"2022-01-26",
+                     "finicioVigencia":"2021-01-10",
+                     "ffinVigencia":"2022-01-10"
+                  },
+                  "vehiculo":{
+                     "serie":"ABCD1234ABCD1234A",
+                     "marca":1,
+                     "tipoSubmarca":17,
+                     "modelo":2016,
+                     "tipoDeTransporte":"SUBURBAN, CARRY ALL",
+                     "tipoDeServicio":1
+                  }
+               },
+               "siniestro":{
+                  "vehiculo":{
+                     "serie":"ABCD1234ABCD1234A",
+                     "marca":1,
+                     "tipoSubmarca":17,
+                     "modelo":2016,
+                     "tipoDeTransporte":"SUBURBAN, CARRY ALL",
+                     "estatus":"Incosteable"
+                  },
+                  "siniestro":{
+                     "numeroDeSiniestro":"SINIESTROEXI00010",
+                     "fechaDeSiniestro":"2021-05-24",
+                     "causaDeSiniestro":4,
+                     "montoOcurridoDelSiniestro":382595.44,
+                     "folioEDUA":null
+                  },
+                  "conductor":{
+                     "conductorPaterno":"Max E",
+                     "conductorMaterno":"Rios E",
+                     "conductorNombre":"Jose E",
+                     "conductorTelefono":5555552417
+                  },
+                  "sucesos":null
+               },
+               "prevencion":null,
+               "valuacion":{
+                  "numeroDeSiniestro":"SINIESTROEXI00010",
+                  "tipoDeAfectado":1,
+                  "numeroDeValuacion":null,
+                  "fechaDeValuacion":null,
+                  "importe":null,
+                  "estatusVehiculo":"Incosteable"
+               },
+               "ocra":null,
+               "pt":{
+                  "estatusVehiculo":"Incosteable",
+                  "numeroDeSiniestro":"SINIESTROEXI00010",
+                  "fechaDeSiniestro":"2021-05-24",
+                  "porcentajePerdida":null,
+                  "tipoPago":null,
+                  "fechaPago":null
+               },
+               "salvamento":{
+                  "estatusVehiculo":"Incosteable",
+                  "importVenta":null,
+                  "fechaVenta":null
+               },
+               "casosEspeciales":null,
+               "sipac":null,
+               "tercero":null,
+               "cesvi":null
+            }
+         },
+         {
+            "alerta":{
+               "ramoRegla":90,
+               "procesoRegla":"Emisión",
+               "idLayoutDetonanteRegla":"sss_auto_emision",
+               "entidadInformacionRegla":"Vehículo",
+               "claveRegla":"15SITINT",
+               "nombreRegla":"Emisión vs CE",
+               "descripcionRegla":"Modificación de reglas internas - Autos - Emisión",
+               "objetivoRegla":"Modificación de reglas internas - Autos - Emisión",
+               "nivelDeRiesgoRegla":"Bajo",
+               "nivelDeAplicacionRegla":"Múltiples LN y mi compañía",
+               "tipologiaFraude":null,
+               "tipoDeRegla":"Interna",
+               "nombreAsociadaHit":"EMPRESA01",
+               "fechaHit":"2021-11-29",
+               "fechaCoincidencia":"2021-11-29",
+               "estatusAlerta":"Activo",
+               "peso":1,
+               "emision":{
+                  "poliza":{
+                     "numPoliza":"POLAUTOEX005",
+                     "inciso":"ASAUTE005",
+                     "tipoDeSeguro":null,
+                     "estatus":null,
+                     "fechaDeEstatus":"2022-01-26",
+                     "finicioVigencia":"2021-01-10",
+                     "ffinVigencia":"2022-01-10"
+                  },
+                  "vehiculo":{
+                     "serie":"ABCD1234ABCD1234A",
+                     "marca":1,
+                     "tipoSubmarca":17,
+                     "modelo":2016,
+                     "tipoDeTransporte":"SUBURBAN, CARRY ALL",
+                     "tipoDeServicio":1
+                  }
+               },
+               "siniestro":{
+                  "vehiculo":{
+                     "serie":"ABCD1234ABCD1234A",
+                     "marca":1,
+                     "tipoSubmarca":17,
+                     "modelo":2016,
+                     "tipoDeTransporte":"SUBURBAN, CARRY ALL",
+                     "estatus":"Incosteable"
+                  },
+                  "siniestro":{
+                     "numeroDeSiniestro":"SINIESTROEXI00010",
+                     "fechaDeSiniestro":"2021-05-24",
+                     "causaDeSiniestro":4,
+                     "montoOcurridoDelSiniestro":382595.44,
+                     "folioEDUA":null
+                  },
+                  "conductor":{
+                     "conductorPaterno":"Max E",
+                     "conductorMaterno":"Rios E",
+                     "conductorNombre":"Jose E",
+                     "conductorTelefono":5555552417
+                  },
+                  "sucesos":null
+               },
+               "prevencion":null,
+               "valuacion":{
+                  "numeroDeSiniestro":"SINIESTROEXI00010",
+                  "tipoDeAfectado":1,
+                  "numeroDeValuacion":null,
+                  "fechaDeValuacion":null,
+                  "importe":null,
+                  "estatusVehiculo":"Incosteable"
+               },
+               "ocra":null,
+               "pt":{
+                  "estatusVehiculo":"Incosteable",
+                  "numeroDeSiniestro":"SINIESTROEXI00010",
+                  "fechaDeSiniestro":"2021-05-24",
+                  "porcentajePerdida":null,
+                  "tipoPago":null,
+                  "fechaPago":null
+               },
+               "salvamento":{
+                  "estatusVehiculo":"Incosteable",
+                  "importVenta":null,
+                  "fechaVenta":null
+               },
+               "casosEspeciales":null,
+               "sipac":null,
+               "tercero":null,
+               "cesvi":null
+            }
+         }
+      ]
+   }
+}

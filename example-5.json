@@ -1,0 +1,8 @@
+{
+    "estatus": false,
+    "error": {
+        "name": "HttpRequestError",
+        "estatus": 500,
+        "message": "Process undefined"
+    }
+}
